@@ -225,7 +225,6 @@ section{
     background:linear-gradient(to bottom left,#f00e47, #f7b77c);
     transform-style: preserve-3d;
     text-align: center;
-    justify-content: center;
     transform: rotateY(calc(var(--i)*45deg)) translateZ(150px);
     transition: 2s;
 }
