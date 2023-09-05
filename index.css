@@ -224,7 +224,6 @@ section{
     text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.384);
     background:linear-gradient(to bottom left,#f00e47, #f7b77c);
     transform-style: preserve-3d;
-    text-align: center;
     transform: rotateY(calc(var(--i)*45deg)) translateZ(150px);
     transition: 2s;
 }
